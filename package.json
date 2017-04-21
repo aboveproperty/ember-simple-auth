@@ -29,7 +29,7 @@
     "ember-cli-is-package-missing": "^1.0.0",
     "ember-cookies": "^0.0.13",
     "ember-getowner-polyfill": "^1.1.0",
-    "ember-network": "^0.3.0",
+    "ember-network": "git@github.com:aboveproperty/ember-network.git#master",
     "silent-error": "^1.0.0"
   },
   "devDependencies": {
