@@ -28,7 +28,7 @@
     "ember-cli-babel": "^6.0.0",
     "ember-cli-is-package-missing": "^1.0.0",
     "ember-cookies": "^0.0.13",
-    "ember-fetch": "^1.4.2",
+    "ember-fetch": "https://github.com/aboveproperty/ember-fetch.git#master",
     "ember-getowner-polyfill": "^1.1.0",
     "silent-error": "^1.0.0"
   },
